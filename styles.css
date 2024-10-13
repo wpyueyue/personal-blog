@@ -34,7 +34,17 @@ footer {
     padding: 1em;
     background-color: #007BFF;
     color: white;
-    position: fixed;
-    width: 100%;
+    position: relative;
     bottom: 0;
+    width: 100%;
+}
+
+.social-share {
+    margin-top: 1em;
+}
+
+#comments {
+    margin-top: 2em;
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
 }
